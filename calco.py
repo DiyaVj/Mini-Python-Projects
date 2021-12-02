@@ -14,8 +14,8 @@ for i in range(40):
 for r in range(4):
     t.fd(100)
     t.right(90)
-t.write("Diya Vijay" , font = ("courier",90,"bold"))       #To woright
-t.write("Diya Vijay" , font = ("courier",90,"bold"))       #To woright
+t.write("Diya Vijay" , font = ("courier",90,"bold"))      
+t.write("Diya Vijay" , font = ("courier",90,"bold"))       
 m =["red"]
 
 for l in range(40):
