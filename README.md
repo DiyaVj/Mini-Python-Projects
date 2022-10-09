@@ -1,5 +1,5 @@
 # Mini-Python-Projects
-<<<<<<< HEAD
+
 Here is the collection of mini python projects.
 
 ## Project Structure
@@ -33,5 +33,3 @@ This repository contains some small/mini projects of python.
 * pythcodes
 * calco
 * Assistant
-
->>>>>>> d342f9506dcba12ffa2f43e49062259fbcd20e0c
