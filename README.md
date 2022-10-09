@@ -1,4 +1,5 @@
 # Mini-Python-Projects
+<<<<<<< HEAD
 Here is the collection of mini python projects.
 
 ## Project Structure
@@ -18,3 +19,19 @@ Turtle animation__calco.py
 |
 README.md
 ```
+=======
+## Table of contents
+* [General Info](#general-info)
+* [Mini Project List](#mini-project-list)
+
+## General Info
+This repository contains some small/mini projects of python.
+
+## Mini Project List
+* Location Tracker
+* ScreenRecorderPC
+* pythcodes
+* calco
+* Assistant
+
+>>>>>>> d342f9506dcba12ffa2f43e49062259fbcd20e0c
